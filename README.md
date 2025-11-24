@@ -12,7 +12,7 @@
    ```
 4. **建立專案資料夾**：
    ```bash
-   mkdir n8n
+   mkdir n8n && cd n8n
    ```
 5. **全域安裝 n8n**：
    ```bash
