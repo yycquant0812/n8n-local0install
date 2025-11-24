@@ -6,6 +6,8 @@
 2. **安裝 Node.js**：
    - 直接開啟 MSI 檔，一路按「下一步」完成安裝。
    - 安裝完成後重新開啟終端機或命令提示字元。
+   - ![cmd](https://github.com/yycquant0812/n8n-local0install/blob/main/1.png)
+
 3. **切換到下載資料夾**：在終端機執行：
    ```bash
    cd Downloads
