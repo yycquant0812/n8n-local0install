@@ -18,7 +18,7 @@
    ```
 5. **全域安裝 n8n**：
    ```bash
-   npm install n8n -g
+   npm install n8n@latest -g
    ```
 6. **啟動 n8n**：安裝完成後直接執行：
    ```bash
