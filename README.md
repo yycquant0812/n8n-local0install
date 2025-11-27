@@ -28,3 +28,14 @@
 7. **開啟管理介面**：瀏覽器輸入 `http://localhost:5678`，即可進入 n8n 的管理頁面進行設定。
 
 完成以上步驟後，n8n 會在本機啟動，依照終端機提示即可開啟使用。
+
+8. **安裝社群節點
+讓我們實際安裝一個社群節點來體驗看看，「隨機寶可夢產生器」節點。
+
+安裝步驟：
+
+進入 Settings → Community Nodes
+點擊橘色的「Install a community node」按鈕
+在輸入框中輸入套件名稱：n8n-nodes-random-pokemon
+勾選「I understand the risks」（了解風險）
+點擊「Install」
