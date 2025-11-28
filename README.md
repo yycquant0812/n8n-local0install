@@ -36,6 +36,10 @@
 
 進入 Settings → Community Nodes
 點擊橘色的「Install a community node」按鈕
-在輸入框中輸入套件名稱：n8n-nodes-random-pokemon
+在輸入框中輸入套件名稱：
+ ```bash
+   n8n-nodes-random-pokemon
+   ```
+
 勾選「I understand the risks」（了解風險）
 點擊「Install」
